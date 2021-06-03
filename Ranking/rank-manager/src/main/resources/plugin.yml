@@ -1,0 +1,8 @@
+name: RANKING_SYSTEM
+main: triplx.core.ranking.Core
+version: v1.0.1
+
+description: The ranking system
+commands:
+  rank:
+    description: Main command for the ranks
