@@ -1,0 +1,9 @@
+name: TRIPLX_API
+main: triplx.core.api.TriplXAPI
+version: v1.0.1 PRODUCTION
+
+commands:
+  devapi:
+    description: A command for developers to check if the API is online
+  uuid:
+    description: Get your uuid.
