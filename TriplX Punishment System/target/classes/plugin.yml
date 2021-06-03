@@ -1,0 +1,19 @@
+name: PUNISHMENT_SYSTEM
+main: core.triplx.punishment.Core
+version: 1.0.2 PRODUCTION
+
+commands:
+  tempban:
+    description: Ban a player.
+  unban:
+    description: Unban a player.
+  mute:
+    description: Mute a player.
+  unmute:
+    description: Unmute a player.
+  warn:
+    description: Warn a player for doing something stupid.
+  punish:
+    description: Punish a player (GUI)
+  kick:
+    description: Kick a player from the network.
